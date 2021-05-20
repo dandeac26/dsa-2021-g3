@@ -26,7 +26,7 @@ void back(int x,int y,int pas)
 
         else
         {
-            mat[X][Y] = 0;
+            //mat[X][Y] = 0;
             if(X == n-1 && Y == m-1)
                 solutions++;
         }
